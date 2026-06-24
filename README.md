@@ -3,11 +3,11 @@ Here is the complete, ready-to-paste `README.md` file.
 Just copy the entire box below, paste it directly into your `README.md` file in VS Code, and save it!
 
 # Internship Registration System
-
+---
 A full-stack web application designed to streamline and manage internship registration applications. This project features a robust Node.js/Express backend, a secure MongoDB database layer, and a dynamic React frontend architecture.
 
 ## 📂 Project Structure
-
+```text
 InternshipRegistration/
 ├── backend/
 │   ├── config/            # Database connection configuration (db.js)
